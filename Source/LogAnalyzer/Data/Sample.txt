@@ -1,0 +1,500 @@
+2026-04-01 08:00:00 Failed password for invalid user dbadmin from 185.77.44.10 port 22 ssh2
+2026-04-01 08:01:00 login failed for root from 103.55.12.91
+2026-04-01 08:02:00 authentication failed for root from 45.13.201.7
+2026-04-01 08:03:00 Failed password for invalid user root from 185.77.44.10 port 22 ssh2
+2026-04-01 08:04:00 Access denied for dbadmin from 103.55.12.91
+2026-04-01 08:05:00 Access denied for root from 45.13.201.7
+2026-04-01 08:06:00 Failed password for invalid user admin from 185.77.44.10 port 22 ssh2
+2026-04-01 08:07:00 Failed password for invalid user root from 103.55.12.91 port 22 ssh2
+2026-04-01 08:08:00 authentication failed for root from 45.13.201.7
+2026-04-01 08:09:00 Access denied for dbadmin from 185.77.44.10
+2026-04-01 08:10:00 Access denied for root from 103.55.12.91
+2026-04-01 08:11:00 Access denied for root from 45.13.201.7
+2026-04-01 08:12:00 authentication failed for admin from 185.77.44.10
+2026-04-01 08:13:00 Access denied for admin from 103.55.12.91
+2026-04-01 08:14:00 Failed password for invalid user admin from 45.13.201.7 port 22 ssh2
+2026-04-01 08:15:00 Invalid user root from 185.77.44.10
+2026-04-01 08:16:00 login failed for admin from 103.55.12.91
+2026-04-01 08:17:00 authentication failed for root from 45.13.201.7
+2026-04-01 08:18:00 Failed password for invalid user admin from 185.77.44.10 port 22 ssh2
+2026-04-01 08:19:00 Invalid user root from 103.55.12.91
+2026-04-01 08:20:00 login failed for root from 45.13.201.7
+2026-04-01 08:21:00 Access denied for admin from 185.77.44.10
+2026-04-01 08:22:00 Failed password for invalid user admin from 103.55.12.91 port 22 ssh2
+2026-04-01 08:23:00 Invalid user dbadmin from 45.13.201.7
+2026-04-01 08:24:00 session opened for user admin from 10.0.0.22
+2026-04-01 08:29:00 unauthorized access attempt from 10.0.0.15 targeting account backup
+2026-04-01 08:30:00 login successful for admin from 10.0.0.15
+2026-04-01 08:31:00 authentication failed for intern from 172.16.0.8
+2026-04-01 08:34:00 Access denied for admin from 192.168.1.21
+2026-04-01 08:36:00 User root successfully logged in from 192.168.1.21
+2026-04-01 08:40:00 Failed password for invalid user intern from 192.168.1.20 port 22 ssh2
+2026-04-01 08:42:00 error: blocked malware payload from 10.0.0.15
+2026-04-01 08:43:00 Invalid user backup from 10.0.0.15
+2026-04-01 08:47:00 error: blocked malware payload from 172.16.0.8
+2026-04-01 08:49:00 Access denied for svc_web from 192.168.1.21
+2026-04-01 08:53:00 Failed password for invalid user helpdesk from 45.13.201.7 port 22 ssh2
+2026-04-01 08:54:00 attack signature matched for root from 45.13.201.7
+2026-04-01 08:59:00 Access denied for helpdesk from 10.0.0.22
+2026-04-01 09:02:00 admin privilege escalation denied for admin from 185.77.44.10
+2026-04-01 09:05:00 error: blocked malware payload from 10.0.0.15
+2026-04-01 09:09:00 Access denied for dbadmin from 185.77.44.10
+2026-04-01 09:11:00 login successful for dbadmin from 192.168.1.20
+2026-04-01 09:13:00 Access denied for sajjid from 45.13.201.7
+2026-04-01 09:16:00 session opened for user intern from 192.168.1.20
+2026-04-01 09:18:00 Invalid user admin from 103.55.12.91
+2026-04-01 09:19:00 attack signature matched for root from 45.13.201.7
+2026-04-01 09:24:00 Access denied for backup from 10.0.0.22
+2026-04-01 09:26:00 User intern successfully logged in from 10.0.0.22
+2026-04-01 09:31:00 Failed password for invalid user backup from 192.168.1.20 port 22 ssh2
+2026-04-01 09:34:00 Failed password for invalid user backup from 192.168.1.20 port 22 ssh2
+2026-04-01 09:35:00 Accepted password for backup from 192.168.1.20 port 22 ssh2
+2026-04-01 09:36:00 error: blocked malware payload from 103.55.12.91
+2026-04-01 09:40:00 authentication failed for helpdesk from 45.13.201.7
+2026-04-01 09:44:00 unauthorized access attempt from 192.168.1.20 targeting account admin
+2026-04-01 09:48:00 Failed password for invalid user helpdesk from 10.0.0.22 port 22 ssh2
+2026-04-01 09:49:00 authentication failed for admin from 10.0.0.15
+2026-04-01 09:51:00 Invalid user root from 172.16.0.8
+2026-04-01 09:53:00 Invalid user admin from 192.168.1.20
+2026-04-01 09:58:00 authentication failed for admin from 185.77.44.10
+2026-04-01 10:00:00 Invalid user backup from 172.16.0.8
+2026-04-01 10:01:00 login failed for svc_web from 185.77.44.10
+2026-04-01 10:05:00 authentication failed for root from 172.16.0.8
+2026-04-01 10:08:00 login failed for sajjid from 185.77.44.10
+2026-04-01 10:09:00 Failed password for invalid user root from 172.16.0.8 port 22 ssh2
+2026-04-01 10:14:00 Access denied for admin from 45.13.201.7
+2026-04-01 10:15:00 Accepted password for svc_web from 192.168.1.21 port 22 ssh2
+2026-04-01 10:20:00 Invalid user admin from 185.77.44.10
+2026-04-01 10:25:00 login successful for dbadmin from 10.0.0.15
+2026-04-01 10:28:00 login failed for root from 10.0.0.22
+2026-04-01 10:32:00 Invalid user sajjid from 103.55.12.91
+2026-04-01 10:37:00 admin privilege escalation denied for admin from 103.55.12.91
+2026-04-01 10:39:00 Accepted password for intern from 192.168.1.21 port 22 ssh2
+2026-04-01 10:41:00 Access denied for helpdesk from 45.13.201.7
+2026-04-01 10:44:00 session opened for user sajjid from 172.16.0.8
+2026-04-01 10:45:00 unauthorized access attempt from 45.13.201.7 targeting account dbadmin
+2026-04-01 10:46:00 error: blocked malware payload from 45.13.201.7
+2026-04-01 10:51:00 login failed for backup from 10.0.0.15
+2026-04-01 10:56:00 User admin successfully logged in from 192.168.1.20
+2026-04-01 10:59:00 login failed for root from 10.0.0.15
+2026-04-01 11:01:00 unauthorized access attempt from 10.0.0.22 targeting account sajjid
+2026-04-01 11:02:00 error: blocked malware payload from 45.13.201.7
+2026-04-01 11:07:00 Accepted password for root from 10.0.0.22 port 22 ssh2
+2026-04-01 11:10:00 authentication failed for intern from 185.77.44.10
+2026-04-01 11:12:00 login successful for svc_web from 10.0.0.15
+2026-04-01 11:14:00 unauthorized access attempt from 45.13.201.7 targeting account svc_web
+2026-04-01 11:16:00 login successful for svc_web from 10.0.0.15
+2026-04-01 11:19:00 Failed password for invalid user svc_web from 103.55.12.91 port 22 ssh2
+2026-04-01 11:23:00 login failed for intern from 172.16.0.8
+2026-04-01 11:25:00 login failed for svc_web from 192.168.1.20
+2026-04-01 11:28:00 admin privilege escalation denied for intern from 192.168.1.21
+2026-04-01 11:32:00 Accepted password for intern from 172.16.0.8 port 22 ssh2
+2026-04-01 11:33:00 admin privilege escalation denied for root from 192.168.1.21
+2026-04-01 11:36:00 login failed for intern from 10.0.0.22
+2026-04-01 11:40:00 User admin successfully logged in from 172.16.0.8
+2026-04-01 11:45:00 Failed password for invalid user svc_web from 185.77.44.10 port 22 ssh2
+2026-04-01 11:50:00 attack signature matched for intern from 192.168.1.20
+2026-04-01 11:51:00 unauthorized access attempt from 10.0.0.15 targeting account intern
+2026-04-01 11:54:00 User intern successfully logged in from 10.0.0.22
+2026-04-01 11:57:00 User svc_web successfully logged in from 192.168.1.21
+2026-04-01 11:59:00 Accepted password for svc_web from 10.0.0.15 port 22 ssh2
+2026-04-01 12:02:00 Invalid user intern from 10.0.0.22
+2026-04-01 12:06:00 authentication failed for helpdesk from 192.168.1.20
+2026-04-01 12:07:00 authentication failed for admin from 10.0.0.15
+2026-04-01 12:10:00 Failed password for invalid user root from 192.168.1.20 port 22 ssh2
+2026-04-01 12:11:00 Invalid user admin from 172.16.0.8
+2026-04-01 12:15:00 attack signature matched for svc_web from 192.168.1.20
+2026-04-01 12:19:00 Invalid user admin from 185.77.44.10
+2026-04-01 12:21:00 Access denied for sajjid from 172.16.0.8
+2026-04-01 12:23:00 warning: exploit attempt detected from 103.55.12.91 against helpdesk
+2026-04-01 12:27:00 User intern successfully logged in from 172.16.0.8
+2026-04-01 12:32:00 warning: exploit attempt detected from 10.0.0.22 against helpdesk
+2026-04-01 12:36:00 Access denied for dbadmin from 192.168.1.20
+2026-04-01 12:40:00 Accepted password for helpdesk from 10.0.0.15 port 22 ssh2
+2026-04-01 12:43:00 Access denied for intern from 10.0.0.15
+2026-04-01 12:44:00 authentication failed for svc_web from 192.168.1.20
+2026-04-01 12:46:00 Access denied for intern from 10.0.0.22
+2026-04-01 12:50:00 Invalid user svc_web from 192.168.1.20
+2026-04-01 12:55:00 attack signature matched for svc_web from 185.77.44.10
+2026-04-01 12:56:00 attack signature matched for svc_web from 192.168.1.21
+2026-04-01 13:01:00 warning: exploit attempt detected from 192.168.1.20 against helpdesk
+2026-04-01 13:04:00 login failed for svc_web from 185.77.44.10
+2026-04-01 13:08:00 Accepted password for root from 10.0.0.22 port 22 ssh2
+2026-04-01 13:12:00 User admin successfully logged in from 192.168.1.20
+2026-04-01 13:14:00 error: blocked malware payload from 45.13.201.7
+2026-04-01 13:18:00 login failed for intern from 172.16.0.8
+2026-04-01 13:22:00 Failed password for invalid user dbadmin from 10.0.0.22 port 22 ssh2
+2026-04-01 13:26:00 authentication failed for intern from 185.77.44.10
+2026-04-01 13:27:00 warning: exploit attempt detected from 185.77.44.10 against sajjid
+2026-04-01 13:29:00 warning: exploit attempt detected from 45.13.201.7 against backup
+2026-04-01 13:33:00 User backup successfully logged in from 172.16.0.8
+2026-04-01 13:36:00 warning: exploit attempt detected from 45.13.201.7 against admin
+2026-04-01 13:39:00 Access denied for dbadmin from 185.77.44.10
+2026-04-01 13:43:00 Access denied for admin from 192.168.1.20
+2026-04-01 13:45:00 Access denied for admin from 192.168.1.21
+2026-04-01 13:46:00 Failed password for invalid user intern from 10.0.0.22 port 22 ssh2
+2026-04-01 13:51:00 User svc_web successfully logged in from 192.168.1.20
+2026-04-01 13:52:00 authentication failed for helpdesk from 10.0.0.15
+2026-04-01 13:56:00 Invalid user helpdesk from 192.168.1.21
+2026-04-01 14:00:00 warning: exploit attempt detected from 192.168.1.21 against intern
+2026-04-01 14:01:00 Invalid user backup from 172.16.0.8
+2026-04-01 14:06:00 Accepted password for intern from 10.0.0.22 port 22 ssh2
+2026-04-01 14:10:00 warning: exploit attempt detected from 45.13.201.7 against helpdesk
+2026-04-01 14:13:00 admin privilege escalation denied for dbadmin from 10.0.0.15
+2026-04-01 14:16:00 Accepted password for backup from 172.16.0.8 port 22 ssh2
+2026-04-01 14:18:00 User backup successfully logged in from 10.0.0.22
+2026-04-01 14:22:00 login failed for admin from 185.77.44.10
+2026-04-01 14:24:00 Access denied for dbadmin from 192.168.1.20
+2026-04-01 14:27:00 Access denied for svc_web from 10.0.0.15
+2026-04-01 14:30:00 login failed for dbadmin from 172.16.0.8
+2026-04-01 14:33:00 Failed password for invalid user intern from 192.168.1.20 port 22 ssh2
+2026-04-01 14:38:00 warning: exploit attempt detected from 45.13.201.7 against backup
+2026-04-01 14:42:00 authentication failed for admin from 192.168.1.21
+2026-04-01 14:45:00 Failed password for invalid user dbadmin from 45.13.201.7 port 22 ssh2
+2026-04-01 14:50:00 Access denied for sajjid from 185.77.44.10
+2026-04-01 14:53:00 Accepted password for helpdesk from 192.168.1.21 port 22 ssh2
+2026-04-01 14:54:00 User helpdesk successfully logged in from 10.0.0.22
+2026-04-01 14:57:00 Invalid user dbadmin from 185.77.44.10
+2026-04-01 14:58:00 unauthorized access attempt from 10.0.0.22 targeting account helpdesk
+2026-04-01 15:03:00 login successful for root from 192.168.1.20
+2026-04-01 15:08:00 unauthorized access attempt from 103.55.12.91 targeting account backup
+2026-04-01 15:13:00 attack signature matched for svc_web from 192.168.1.20
+2026-04-01 15:17:00 Access denied for dbadmin from 10.0.0.22
+2026-04-01 15:22:00 authentication failed for backup from 103.55.12.91
+2026-04-01 15:25:00 login successful for backup from 192.168.1.21
+2026-04-01 15:30:00 Invalid user svc_web from 185.77.44.10
+2026-04-01 15:35:00 login failed for backup from 185.77.44.10
+2026-04-01 15:38:00 login successful for admin from 10.0.0.22
+2026-04-01 15:41:00 unauthorized access attempt from 192.168.1.20 targeting account svc_web
+2026-04-01 15:46:00 authentication failed for dbadmin from 45.13.201.7
+2026-04-01 15:47:00 Invalid user dbadmin from 192.168.1.21
+2026-04-01 15:48:00 login failed for svc_web from 192.168.1.21
+2026-04-01 15:53:00 Accepted password for admin from 10.0.0.22 port 22 ssh2
+2026-04-01 15:57:00 Accepted password for dbadmin from 172.16.0.8 port 22 ssh2
+2026-04-01 15:58:00 Access denied for dbadmin from 185.77.44.10
+2026-04-01 15:59:00 admin privilege escalation denied for helpdesk from 45.13.201.7
+2026-04-01 16:03:00 attack signature matched for svc_web from 45.13.201.7
+2026-04-01 16:04:00 login failed for intern from 10.0.0.22
+2026-04-01 16:05:00 attack signature matched for svc_web from 10.0.0.15
+2026-04-01 16:08:00 User sajjid successfully logged in from 10.0.0.22
+2026-04-01 16:09:00 Invalid user admin from 10.0.0.15
+2026-04-01 16:14:00 attack signature matched for helpdesk from 185.77.44.10
+2026-04-01 16:15:00 Invalid user helpdesk from 10.0.0.15
+2026-04-01 16:16:00 Invalid user dbadmin from 45.13.201.7
+2026-04-01 16:20:00 login failed for root from 192.168.1.20
+2026-04-01 16:25:00 authentication failed for admin from 10.0.0.22
+2026-04-01 16:26:00 Invalid user root from 103.55.12.91
+2026-04-01 16:29:00 User svc_web successfully logged in from 10.0.0.15
+2026-04-01 16:33:00 authentication failed for svc_web from 45.13.201.7
+2026-04-01 16:38:00 session opened for user admin from 192.168.1.21
+2026-04-01 16:42:00 login failed for sajjid from 192.168.1.21
+2026-04-01 16:45:00 attack signature matched for root from 172.16.0.8
+2026-04-01 16:50:00 User svc_web successfully logged in from 10.0.0.15
+2026-04-01 16:53:00 warning: exploit attempt detected from 192.168.1.20 against svc_web
+2026-04-01 16:57:00 Invalid user svc_web from 172.16.0.8
+2026-04-01 16:59:00 session opened for user root from 192.168.1.20
+2026-04-01 17:00:00 admin privilege escalation denied for admin from 172.16.0.8
+2026-04-01 17:04:00 authentication failed for svc_web from 45.13.201.7
+2026-04-01 17:05:00 Access denied for intern from 192.168.1.21
+2026-04-01 17:09:00 session opened for user svc_web from 10.0.0.15
+2026-04-01 17:13:00 warning: exploit attempt detected from 185.77.44.10 against admin
+2026-04-01 17:16:00 unauthorized access attempt from 103.55.12.91 targeting account svc_web
+2026-04-01 17:17:00 Failed password for invalid user sajjid from 192.168.1.21 port 22 ssh2
+2026-04-01 17:20:00 error: blocked malware payload from 192.168.1.21
+2026-04-01 17:24:00 authentication failed for root from 10.0.0.22
+2026-04-01 17:26:00 Invalid user backup from 10.0.0.22
+2026-04-01 17:31:00 Invalid user dbadmin from 172.16.0.8
+2026-04-01 17:34:00 login successful for dbadmin from 10.0.0.22
+2026-04-01 17:35:00 Invalid user dbadmin from 10.0.0.15
+2026-04-01 17:38:00 Invalid user backup from 192.168.1.21
+2026-04-01 17:42:00 Access denied for intern from 10.0.0.22
+2026-04-01 17:45:00 attack signature matched for sajjid from 192.168.1.21
+2026-04-01 17:48:00 login failed for helpdesk from 185.77.44.10
+2026-04-01 17:50:00 login successful for backup from 10.0.0.15
+2026-04-01 17:55:00 Failed password for invalid user admin from 45.13.201.7 port 22 ssh2
+2026-04-01 17:58:00 warning: exploit attempt detected from 185.77.44.10 against intern
+2026-04-01 17:59:00 warning: exploit attempt detected from 10.0.0.15 against svc_web
+2026-04-01 18:01:00 authentication failed for dbadmin from 10.0.0.15
+2026-04-01 18:04:00 error: blocked malware payload from 172.16.0.8
+2026-04-01 18:05:00 authentication failed for root from 103.55.12.91
+2026-04-01 18:09:00 attack signature matched for admin from 10.0.0.15
+2026-04-01 18:10:00 login failed for helpdesk from 103.55.12.91
+2026-04-01 18:13:00 login successful for admin from 10.0.0.15
+2026-04-01 18:17:00 Failed password for invalid user backup from 10.0.0.15 port 22 ssh2
+2026-04-01 18:21:00 unauthorized access attempt from 192.168.1.21 targeting account svc_web
+2026-04-01 18:23:00 Invalid user dbadmin from 185.77.44.10
+2026-04-01 18:24:00 Invalid user svc_web from 45.13.201.7
+2026-04-01 18:27:00 login successful for svc_web from 172.16.0.8
+2026-04-01 18:31:00 session opened for user svc_web from 10.0.0.22
+2026-04-01 18:32:00 User helpdesk successfully logged in from 192.168.1.21
+2026-04-01 18:34:00 admin privilege escalation denied for intern from 103.55.12.91
+2026-04-01 18:37:00 Failed password for invalid user backup from 192.168.1.21 port 22 ssh2
+2026-04-01 18:41:00 Failed password for invalid user sajjid from 192.168.1.20 port 22 ssh2
+2026-04-01 18:44:00 Failed password for invalid user backup from 45.13.201.7 port 22 ssh2
+2026-04-01 18:49:00 login failed for backup from 192.168.1.20
+2026-04-01 18:51:00 warning: exploit attempt detected from 185.77.44.10 against dbadmin
+2026-04-01 18:53:00 Accepted password for admin from 192.168.1.21 port 22 ssh2
+2026-04-01 18:55:00 Failed password for invalid user intern from 192.168.1.20 port 22 ssh2
+2026-04-01 18:57:00 Access denied for svc_web from 45.13.201.7
+2026-04-01 18:58:00 error: blocked malware payload from 172.16.0.8
+2026-04-01 19:03:00 Accepted password for backup from 10.0.0.22 port 22 ssh2
+2026-04-01 19:08:00 Invalid user sajjid from 185.77.44.10
+2026-04-01 19:12:00 Invalid user helpdesk from 103.55.12.91
+2026-04-01 19:13:00 unauthorized access attempt from 10.0.0.15 targeting account root
+2026-04-01 19:15:00 Access denied for svc_web from 10.0.0.15
+2026-04-01 19:20:00 Failed password for invalid user admin from 10.0.0.22 port 22 ssh2
+2026-04-01 19:25:00 User svc_web successfully logged in from 192.168.1.21
+2026-04-01 19:27:00 Invalid user svc_web from 172.16.0.8
+2026-04-01 19:28:00 login failed for dbadmin from 10.0.0.15
+2026-04-01 19:30:00 Accepted password for admin from 10.0.0.22 port 22 ssh2
+2026-04-01 19:31:00 authentication failed for intern from 103.55.12.91
+2026-04-01 19:36:00 Invalid user admin from 10.0.0.15
+2026-04-01 19:39:00 error: blocked malware payload from 10.0.0.22
+2026-04-01 19:44:00 authentication failed for backup from 103.55.12.91
+2026-04-01 19:48:00 Access denied for intern from 103.55.12.91
+2026-04-01 19:51:00 Invalid user backup from 192.168.1.21
+2026-04-01 19:56:00 unauthorized access attempt from 185.77.44.10 targeting account dbadmin
+2026-04-01 19:58:00 login failed for intern from 192.168.1.21
+2026-04-01 19:59:00 Failed password for invalid user svc_web from 45.13.201.7 port 22 ssh2
+2026-04-01 20:01:00 admin privilege escalation denied for admin from 185.77.44.10
+2026-04-01 20:03:00 authentication failed for intern from 172.16.0.8
+2026-04-01 20:06:00 Failed password for invalid user admin from 10.0.0.15 port 22 ssh2
+2026-04-01 20:08:00 login failed for admin from 185.77.44.10
+2026-04-01 20:12:00 User helpdesk successfully logged in from 10.0.0.22
+2026-04-01 20:15:00 Invalid user intern from 103.55.12.91
+2026-04-01 20:16:00 Failed password for invalid user dbadmin from 172.16.0.8 port 22 ssh2
+2026-04-01 20:18:00 authentication failed for sajjid from 185.77.44.10
+2026-04-01 20:21:00 error: blocked malware payload from 45.13.201.7
+2026-04-01 20:24:00 authentication failed for svc_web from 172.16.0.8
+2026-04-01 20:26:00 Failed password for invalid user intern from 192.168.1.20 port 22 ssh2
+2026-04-01 20:30:00 unauthorized access attempt from 185.77.44.10 targeting account svc_web
+2026-04-01 20:34:00 admin privilege escalation denied for svc_web from 10.0.0.15
+2026-04-01 20:38:00 Accepted password for dbadmin from 10.0.0.22 port 22 ssh2
+2026-04-01 20:42:00 Access denied for root from 10.0.0.15
+2026-04-01 20:46:00 attack signature matched for admin from 10.0.0.15
+2026-04-01 20:47:00 Invalid user admin from 10.0.0.22
+2026-04-01 20:50:00 warning: exploit attempt detected from 192.168.1.20 against intern
+2026-04-01 20:51:00 session opened for user backup from 192.168.1.20
+2026-04-01 20:54:00 Accepted password for backup from 192.168.1.21 port 22 ssh2
+2026-04-01 20:56:00 Failed password for invalid user root from 45.13.201.7 port 22 ssh2
+2026-04-01 20:58:00 admin privilege escalation denied for helpdesk from 172.16.0.8
+2026-04-01 21:03:00 authentication failed for intern from 10.0.0.15
+2026-04-01 21:07:00 login failed for dbadmin from 172.16.0.8
+2026-04-01 21:12:00 Invalid user dbadmin from 103.55.12.91
+2026-04-01 21:16:00 Failed password for invalid user dbadmin from 10.0.0.15 port 22 ssh2
+2026-04-01 21:17:00 User svc_web successfully logged in from 172.16.0.8
+2026-04-01 21:22:00 login successful for helpdesk from 192.168.1.20
+2026-04-01 21:25:00 Accepted password for root from 172.16.0.8 port 22 ssh2
+2026-04-01 21:29:00 Access denied for admin from 10.0.0.15
+2026-04-01 21:31:00 Access denied for helpdesk from 172.16.0.8
+2026-04-01 21:36:00 session opened for user intern from 10.0.0.15
+2026-04-01 21:40:00 login failed for sajjid from 10.0.0.15
+2026-04-01 21:41:00 login failed for dbadmin from 10.0.0.22
+2026-04-01 21:46:00 admin privilege escalation denied for admin from 10.0.0.15
+2026-04-01 21:48:00 warning: exploit attempt detected from 192.168.1.21 against svc_web
+2026-04-01 21:53:00 User dbadmin successfully logged in from 192.168.1.20
+2026-04-01 21:56:00 admin privilege escalation denied for svc_web from 103.55.12.91
+2026-04-01 21:59:00 authentication failed for root from 192.168.1.21
+2026-04-01 22:02:00 warning: exploit attempt detected from 172.16.0.8 against backup
+2026-04-01 22:04:00 Access denied for admin from 192.168.1.21
+2026-04-01 22:09:00 admin privilege escalation denied for intern from 185.77.44.10
+2026-04-01 22:11:00 login successful for root from 192.168.1.21
+2026-04-01 22:16:00 unauthorized access attempt from 45.13.201.7 targeting account helpdesk
+2026-04-01 22:20:00 Access denied for helpdesk from 192.168.1.20
+2026-04-01 22:23:00 admin privilege escalation denied for backup from 172.16.0.8
+2026-04-01 22:25:00 login failed for backup from 172.16.0.8
+2026-04-01 22:30:00 attack signature matched for dbadmin from 172.16.0.8
+2026-04-01 22:35:00 login successful for backup from 192.168.1.21
+2026-04-01 22:38:00 Access denied for intern from 172.16.0.8
+2026-04-01 22:39:00 session opened for user admin from 172.16.0.8
+2026-04-01 22:40:00 admin privilege escalation denied for helpdesk from 192.168.1.21
+2026-04-01 22:42:00 attack signature matched for backup from 103.55.12.91
+2026-04-01 22:45:00 attack signature matched for sajjid from 10.0.0.22
+2026-04-01 22:50:00 login failed for admin from 10.0.0.22
+2026-04-01 22:52:00 authentication failed for intern from 103.55.12.91
+2026-04-01 22:54:00 Invalid user root from 172.16.0.8
+2026-04-01 22:58:00 session opened for user sajjid from 192.168.1.20
+2026-04-01 23:00:00 error: blocked malware payload from 10.0.0.22
+2026-04-01 23:02:00 Invalid user backup from 185.77.44.10
+2026-04-01 23:07:00 Access denied for helpdesk from 103.55.12.91
+2026-04-01 23:12:00 login failed for root from 192.168.1.20
+2026-04-01 23:16:00 Access denied for backup from 10.0.0.15
+2026-04-01 23:20:00 Failed password for invalid user intern from 103.55.12.91 port 22 ssh2
+2026-04-01 23:25:00 User sajjid successfully logged in from 172.16.0.8
+2026-04-01 23:29:00 login failed for intern from 10.0.0.22
+2026-04-01 23:30:00 authentication failed for intern from 103.55.12.91
+2026-04-01 23:31:00 unauthorized access attempt from 10.0.0.15 targeting account root
+2026-04-01 23:34:00 User helpdesk successfully logged in from 192.168.1.21
+2026-04-01 23:36:00 unauthorized access attempt from 103.55.12.91 targeting account helpdesk
+2026-04-01 23:39:00 login failed for sajjid from 192.168.1.20
+2026-04-01 23:42:00 session opened for user helpdesk from 172.16.0.8
+2026-04-01 23:43:00 error: blocked malware payload from 192.168.1.20
+2026-04-01 23:44:00 unauthorized access attempt from 10.0.0.15 targeting account dbadmin
+2026-04-01 23:47:00 Invalid user helpdesk from 10.0.0.22
+2026-04-01 23:50:00 error: blocked malware payload from 172.16.0.8
+2026-04-01 23:55:00 Failed password for invalid user svc_web from 103.55.12.91 port 22 ssh2
+2026-04-01 23:59:00 session opened for user dbadmin from 192.168.1.21
+2026-04-02 00:00:00 Invalid user dbadmin from 192.168.1.21
+2026-04-02 00:05:00 session opened for user helpdesk from 192.168.1.21
+2026-04-02 00:09:00 login failed for svc_web from 10.0.0.15
+2026-04-02 00:10:00 Access denied for intern from 10.0.0.22
+2026-04-02 00:12:00 unauthorized access attempt from 45.13.201.7 targeting account helpdesk
+2026-04-02 00:14:00 Invalid user intern from 10.0.0.15
+2026-04-02 00:19:00 login failed for helpdesk from 45.13.201.7
+2026-04-02 00:22:00 Access denied for root from 103.55.12.91
+2026-04-02 00:25:00 Failed password for invalid user backup from 192.168.1.21 port 22 ssh2
+2026-04-02 00:26:00 Accepted password for svc_web from 10.0.0.22 port 22 ssh2
+2026-04-02 00:29:00 admin privilege escalation denied for backup from 172.16.0.8
+2026-04-02 00:32:00 Accepted password for backup from 10.0.0.22 port 22 ssh2
+2026-04-02 00:34:00 attack signature matched for root from 172.16.0.8
+2026-04-02 00:35:00 unauthorized access attempt from 10.0.0.15 targeting account intern
+2026-04-02 00:40:00 login successful for root from 10.0.0.15
+2026-04-02 00:43:00 login successful for backup from 192.168.1.20
+2026-04-02 00:45:00 admin privilege escalation denied for intern from 185.77.44.10
+2026-04-02 00:50:00 Failed password for invalid user admin from 45.13.201.7 port 22 ssh2
+2026-04-02 00:53:00 Invalid user svc_web from 172.16.0.8
+2026-04-02 00:58:00 Invalid user admin from 10.0.0.15
+2026-04-02 01:02:00 login successful for root from 10.0.0.15
+2026-04-02 01:04:00 Access denied for admin from 185.77.44.10
+2026-04-02 01:06:00 authentication failed for intern from 45.13.201.7
+2026-04-02 01:09:00 error: blocked malware payload from 192.168.1.21
+2026-04-02 01:11:00 login successful for dbadmin from 172.16.0.8
+2026-04-02 01:14:00 login successful for root from 192.168.1.20
+2026-04-02 01:16:00 Accepted password for intern from 172.16.0.8 port 22 ssh2
+2026-04-02 01:17:00 Access denied for backup from 192.168.1.21
+2026-04-02 01:21:00 session opened for user helpdesk from 192.168.1.20
+2026-04-02 01:24:00 User dbadmin successfully logged in from 10.0.0.22
+2026-04-02 01:25:00 User helpdesk successfully logged in from 192.168.1.21
+2026-04-02 01:29:00 login failed for root from 10.0.0.15
+2026-04-02 01:32:00 login successful for svc_web from 10.0.0.15
+2026-04-02 01:35:00 login successful for intern from 192.168.1.20
+2026-04-02 01:39:00 authentication failed for backup from 172.16.0.8
+2026-04-02 01:40:00 authentication failed for svc_web from 10.0.0.22
+2026-04-02 01:42:00 warning: exploit attempt detected from 10.0.0.15 against backup
+2026-04-02 01:46:00 error: blocked malware payload from 172.16.0.8
+2026-04-02 01:50:00 authentication failed for helpdesk from 10.0.0.22
+2026-04-02 01:52:00 session opened for user sajjid from 192.168.1.20
+2026-04-02 01:56:00 Accepted password for dbadmin from 10.0.0.22 port 22 ssh2
+2026-04-02 01:57:00 Invalid user intern from 192.168.1.21
+2026-04-02 02:00:00 login failed for backup from 185.77.44.10
+2026-04-02 02:05:00 Access denied for helpdesk from 10.0.0.22
+2026-04-02 02:08:00 unauthorized access attempt from 103.55.12.91 targeting account root
+2026-04-02 02:12:00 authentication failed for intern from 10.0.0.15
+2026-04-02 02:14:00 Accepted password for sajjid from 10.0.0.22 port 22 ssh2
+2026-04-02 02:15:00 Access denied for helpdesk from 10.0.0.15
+2026-04-02 02:19:00 Access denied for intern from 45.13.201.7
+2026-04-02 02:22:00 Access denied for intern from 192.168.1.21
+2026-04-02 02:27:00 User dbadmin successfully logged in from 172.16.0.8
+2026-04-02 02:28:00 Access denied for svc_web from 103.55.12.91
+2026-04-02 02:31:00 error: blocked malware payload from 185.77.44.10
+2026-04-02 02:36:00 login successful for helpdesk from 192.168.1.20
+2026-04-02 02:41:00 login successful for svc_web from 172.16.0.8
+2026-04-02 02:43:00 Failed password for invalid user backup from 103.55.12.91 port 22 ssh2
+2026-04-02 02:47:00 authentication failed for svc_web from 45.13.201.7
+2026-04-02 02:51:00 Accepted password for helpdesk from 172.16.0.8 port 22 ssh2
+2026-04-02 02:53:00 User intern successfully logged in from 172.16.0.8
+2026-04-02 02:58:00 Access denied for helpdesk from 45.13.201.7
+2026-04-02 03:01:00 login successful for helpdesk from 10.0.0.15
+2026-04-02 03:03:00 login failed for backup from 192.168.1.21
+2026-04-02 03:06:00 User intern successfully logged in from 10.0.0.22
+2026-04-02 03:09:00 Accepted password for dbadmin from 10.0.0.15 port 22 ssh2
+2026-04-02 03:14:00 session opened for user svc_web from 10.0.0.22
+2026-04-02 03:16:00 login failed for admin from 192.168.1.21
+2026-04-02 03:20:00 login successful for backup from 10.0.0.22
+2026-04-02 03:25:00 Failed password for invalid user root from 192.168.1.21 port 22 ssh2
+2026-04-02 03:30:00 unauthorized access attempt from 192.168.1.20 targeting account backup
+2026-04-02 03:35:00 Failed password for invalid user sajjid from 192.168.1.20 port 22 ssh2
+2026-04-02 03:39:00 authentication failed for admin from 172.16.0.8
+2026-04-02 03:40:00 attack signature matched for svc_web from 45.13.201.7
+2026-04-02 03:44:00 session opened for user intern from 10.0.0.15
+2026-04-02 03:45:00 admin privilege escalation denied for backup from 103.55.12.91
+2026-04-02 03:46:00 warning: exploit attempt detected from 45.13.201.7 against svc_web
+2026-04-02 03:47:00 warning: exploit attempt detected from 10.0.0.22 against helpdesk
+2026-04-02 03:50:00 admin privilege escalation denied for dbadmin from 185.77.44.10
+2026-04-02 03:55:00 Invalid user dbadmin from 10.0.0.15
+2026-04-02 04:00:00 session opened for user helpdesk from 192.168.1.21
+2026-04-02 04:02:00 attack signature matched for root from 10.0.0.15
+2026-04-02 04:05:00 session opened for user intern from 192.168.1.20
+2026-04-02 04:10:00 User root successfully logged in from 192.168.1.21
+2026-04-02 04:14:00 Accepted password for svc_web from 192.168.1.20 port 22 ssh2
+2026-04-02 04:16:00 warning: exploit attempt detected from 172.16.0.8 against intern
+2026-04-02 04:17:00 login failed for helpdesk from 192.168.1.20
+2026-04-02 04:20:00 login failed for dbadmin from 185.77.44.10
+2026-04-02 04:22:00 login failed for helpdesk from 103.55.12.91
+2026-04-02 04:24:00 login failed for admin from 192.168.1.21
+2026-04-02 04:27:00 User root successfully logged in from 192.168.1.21
+2026-04-02 04:29:00 Access denied for svc_web from 10.0.0.15
+2026-04-02 04:33:00 admin privilege escalation denied for backup from 192.168.1.20
+2026-04-02 04:34:00 Accepted password for intern from 172.16.0.8 port 22 ssh2
+2026-04-02 04:39:00 authentication failed for root from 192.168.1.20
+2026-04-02 04:42:00 warning: exploit attempt detected from 172.16.0.8 against admin
+2026-04-02 04:47:00 Accepted password for helpdesk from 172.16.0.8 port 22 ssh2
+2026-04-02 04:51:00 Access denied for helpdesk from 10.0.0.22
+2026-04-02 04:52:00 User sajjid successfully logged in from 10.0.0.15
+2026-04-02 04:55:00 unauthorized access attempt from 192.168.1.20 targeting account admin
+2026-04-02 04:59:00 Failed password for invalid user sajjid from 103.55.12.91 port 22 ssh2
+2026-04-02 05:03:00 authentication failed for root from 10.0.0.22
+2026-04-02 05:07:00 Invalid user helpdesk from 10.0.0.22
+2026-04-02 05:11:00 Failed password for invalid user intern from 45.13.201.7 port 22 ssh2
+2026-04-02 05:13:00 warning: exploit attempt detected from 10.0.0.22 against root
+2026-04-02 05:14:00 admin privilege escalation denied for helpdesk from 192.168.1.21
+2026-04-02 05:18:00 User backup successfully logged in from 192.168.1.21
+2026-04-02 05:21:00 Failed password for invalid user admin from 192.168.1.20 port 22 ssh2
+2026-04-02 05:25:00 login successful for backup from 192.168.1.20
+2026-04-02 05:26:00 Access denied for helpdesk from 185.77.44.10
+2026-04-02 05:27:00 Invalid user svc_web from 185.77.44.10
+2026-04-02 05:29:00 session opened for user root from 192.168.1.20
+2026-04-02 05:31:00 warning: exploit attempt detected from 10.0.0.15 against intern
+2026-04-02 05:34:00 error: blocked malware payload from 192.168.1.20
+2026-04-02 05:37:00 Access denied for svc_web from 45.13.201.7
+2026-04-02 05:41:00 Access denied for svc_web from 10.0.0.15
+2026-04-02 05:44:00 session opened for user root from 10.0.0.22
+2026-04-02 05:48:00 authentication failed for backup from 172.16.0.8
+2026-04-02 05:51:00 unauthorized access attempt from 45.13.201.7 targeting account helpdesk
+2026-04-02 05:56:00 Invalid user root from 10.0.0.22
+2026-04-02 05:58:00 Invalid user admin from 10.0.0.15
+2026-04-02 06:01:00 login failed for sajjid from 192.168.1.20
+2026-04-02 06:05:00 Accepted password for sajjid from 172.16.0.8 port 22 ssh2
+2026-04-02 06:07:00 warning: exploit attempt detected from 192.168.1.20 against helpdesk
+2026-04-02 06:10:00 authentication failed for backup from 185.77.44.10
+2026-04-02 06:11:00 admin privilege escalation denied for backup from 172.16.0.8
+2026-04-02 06:13:00 login failed for intern from 192.168.1.20
+2026-04-02 06:17:00 login failed for dbadmin from 10.0.0.15
+2026-04-02 06:20:00 Accepted password for helpdesk from 10.0.0.22 port 22 ssh2
+2026-04-02 06:24:00 error: blocked malware payload from 10.0.0.15
+2026-04-02 06:27:00 Failed password for invalid user root from 192.168.1.20 port 22 ssh2
+2026-04-02 06:30:00 session opened for user svc_web from 172.16.0.8
+2026-04-02 06:32:00 Access denied for svc_web from 192.168.1.20
+2026-04-02 06:34:00 User dbadmin successfully logged in from 10.0.0.15
+2026-04-02 06:38:00 authentication failed for root from 10.0.0.15
+2026-04-02 06:43:00 Accepted password for sajjid from 172.16.0.8 port 22 ssh2
+2026-04-02 06:44:00 attack signature matched for sajjid from 185.77.44.10
+2026-04-02 06:46:00 warning: exploit attempt detected from 192.168.1.20 against admin
+2026-04-02 06:47:00 Failed password for invalid user intern from 172.16.0.8 port 22 ssh2
+2026-04-02 06:52:00 User helpdesk successfully logged in from 172.16.0.8
+2026-04-02 06:53:00 Failed password for invalid user sajjid from 10.0.0.22 port 22 ssh2
+2026-04-02 06:58:00 Accepted password for dbadmin from 172.16.0.8 port 22 ssh2
+2026-04-02 07:03:00 unauthorized access attempt from 10.0.0.22 targeting account root
+2026-04-02 07:04:00 session opened for user backup from 192.168.1.21
+2026-04-02 07:07:00 login failed for admin from 10.0.0.22
+2026-04-02 07:11:00 login failed for backup from 192.168.1.20
+2026-04-02 07:12:00 User admin successfully logged in from 192.168.1.20
+2026-04-02 07:16:00 Failed password for invalid user sajjid from 172.16.0.8 port 22 ssh2
+2026-04-02 07:18:00 Access denied for intern from 10.0.0.22
+2026-04-02 07:19:00 warning: exploit attempt detected from 185.77.44.10 against backup
+2026-04-02 07:24:00 login failed for admin from 185.77.44.10
+2026-04-02 07:29:00 session opened for user root from 192.168.1.20
+2026-04-02 07:30:00 unauthorized access attempt from 45.13.201.7 targeting account svc_web
+2026-04-02 07:33:00 Access denied for svc_web from 192.168.1.20
+2026-04-02 07:36:00 Access denied for admin from 45.13.201.7
+2026-04-02 07:39:00 Failed password for invalid user backup from 10.0.0.22 port 22 ssh2
+2026-04-02 07:42:00 session opened for user svc_web from 172.16.0.8
+2026-04-02 07:43:00 login successful for helpdesk from 10.0.0.22
+2026-04-02 07:46:00 login successful for svc_web from 10.0.0.22
+2026-04-02 07:51:00 login successful for dbadmin from 192.168.1.20
+2026-04-02 07:52:00 authentication failed for svc_web from 45.13.201.7
+2026-04-02 07:56:00 Failed password for invalid user admin from 103.55.12.91 port 22 ssh2
+2026-04-02 07:59:00 authentication failed for admin from 192.168.1.21
+2026-04-02 08:00:00 Failed password for invalid user svc_web from 172.16.0.8 port 22 ssh2
+2026-04-02 08:01:00 Invalid user intern from 103.55.12.91
+2026-04-02 08:02:00 Access denied for admin from 10.0.0.22
