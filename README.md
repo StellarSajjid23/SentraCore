@@ -1,2 +1,5 @@
-# SentraCore
-SOC-Style log analysis and detection engine for identifying threats, brute-force attacks, and correlated security events.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/StellarSajjid23/SentraCore/main/SentraCore_Banner.svg" />
+</p>
+
+---
